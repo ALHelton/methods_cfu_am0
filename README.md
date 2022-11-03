@@ -10,7 +10,7 @@
 
 Read the directions and complete all activities in each file, in this order:
 - X `define_and_id.rb.rb`
-- `methods_variables.rb`
+- X`methods_variables.rb`
 - `final_practice.rb`
 - `self-evaluation.md`
 
