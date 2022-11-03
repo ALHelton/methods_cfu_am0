@@ -1,7 +1,15 @@
 # Defining Our Own Methods
 # 1: Write a method named greeting that prints out a general greeting to someone
 
+def how_are_you(name)
+    "How are you, #{name}?"
+end
+
+p how_are_you("Jared")
+
 # What is the return value of your method?
+"How are you, Jared"
+
 # How many arguments did you pass your method?
 
 
