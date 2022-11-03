@@ -4,10 +4,30 @@
 # Define a variable that stores a string
 
 #  call upcase on the variable, print it out
+
+# plants = "aloe, turtle vine, begonia"
+
+# p plants.upcase
+
+
+
 #  call downcase on the variable, print it out
+
+# plants = "ALOE, TURTLE VINE, BEGONIA"
+
+# p plants.downcase
+
 #  call reverse on the variable, print it out
+
+# plants = "aloe, turtle vine, begonia"
+
+# p plants.reverse
+
 #  call length on the variable, print it out
 
+plants = "aloe, turtle vine, begonia"
+
+p plants.length
 
 
 
