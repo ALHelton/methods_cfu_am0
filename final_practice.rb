@@ -58,8 +58,8 @@
 #4: Write a method named greet_person that takes in 3 strings, a first, middle, and last name, 
 # and print outs the sentence of the entire string
 
-def greet_person(first_name + middle_name + last_name)
-    "Well hey there, #{first_name + middle_name + last_name}!"
+def greet_person(first_name, middle_name, last_name)
+    p "Well hey there, #{first_name + " " + middle_name + " " + last_name}!"
     # first_name + middle_name + last_name
 end
 
@@ -67,7 +67,7 @@ end
 # middle_name = "Lynelle"
 # last_name = "Helton"
 
-p greet_person("Andra", "Lynelle", "Helton")
+greet_person("Andra", "Lynelle", "Helton")
 
 
 
